@@ -2,7 +2,7 @@
 title: "A task‐ and role‐based perspective on super‐recognizers: Commentary on ‘Super‐recognizers:\
   \ From the laboratory to the world and back again'"
 date: '2019-03-01'
-draft: true
+draft: false
 publishDate: '2020-11-16T18:07:55.445186Z'
 authors:
 - Reuben Moreton
