@@ -68,7 +68,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Reuben Moreton is a researcher and consultant in forensic science and psychology, specifically forensic facial identification, with 10 years’ prior experience working operationally as a forensic examiner and expert witness. Reuben provides advice and consultancy in forensic identification and image analysis to police forces and government departments in the UK and internationally.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+He is a proactive member of forensic practitioner working groups and having written international best practice guidance and standards in forensic facial identification. Reuben has extensive experience in academic forensic research and have published peer-reviewed articles on the psychology of forensic facial identification.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+The current focus of Reuben's research is investigating human and algorithm expertise in forensic face matching. More broadly his research covers the psychology of forensic expertise and decision making.
