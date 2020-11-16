@@ -2,7 +2,7 @@
 title: 'Understanding and supporting law enforcement personnel working with distressing
   material: Findings from a qualitative study'
 date: '2021-01-01'
-draft: true
+draft: false
 publishDate: '2020-11-16T18:07:55.686302Z'
 authors:
 - Cristina Denk-Florea
