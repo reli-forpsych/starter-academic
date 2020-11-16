@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Reuben Moreton
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Researcher and consultant
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Reli Psychology & Forensic Science
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,14 +23,14 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Pyschology
+    institution: Open University
+    year: 2021
+  - course: MSc Forenic Science
+    institution: King's College London
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BSc in Forensic & Crime Scene Science
+    institution: Bournemouth University
     year: 2008
 
 # Social/Academic Networking
@@ -40,16 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '/#contact'  # For a direct email link, use "relmoreton@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/MoretonReuben
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=KWGtJmkAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/reli-forpsych
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
