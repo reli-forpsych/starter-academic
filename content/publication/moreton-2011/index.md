@@ -30,10 +30,6 @@ abstract: Photoanthropometry is a metric based facial image comparison technique
   however further work is required.
 featured: false
 publication: '*Forensic Science International*'
-tags:
-- '"CCTV"'
-- '"Facial image comparison"'
-- '"Photoanthropometry"'
 doi: 10.1016/j.forsciint.2011.06.023
 ---
 
