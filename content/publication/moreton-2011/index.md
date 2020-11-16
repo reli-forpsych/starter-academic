@@ -1,7 +1,7 @@
 ---
 title: Investigation into the use of photoanthropometry in facial image comparison
 date: '2011-01-01'
-draft: true
+draft: false
 publishDate: '2020-11-16T18:07:55.591659Z'
 authors:
 - Reuben Moreton
