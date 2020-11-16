@@ -27,7 +27,7 @@ abstract: Photoanthropometry is a metric based facial image comparison technique
   currently practiced, is unsuitable for elimination purposes. Preliminary investigations
   into the effects of distance from camera and image resolution in poor quality images
   suggest that such images are not an accurate representation of an individuals face,
-  however further work is required. ?? 2011 Elsevier Ireland Ltd.
+  however further work is required.
 featured: false
 publication: '*Forensic Science International*'
 tags:
