@@ -26,10 +26,10 @@ education:
   - course: PhD in Pyschology
     institution: Open University
     year: 2021
-  - course: MSc Forenic Science
+  - course: MSc Forenic Science with distinction
     institution: King's College London
     year: 2009
-  - course: BSc in Forensic & Crime Scene Science
+  - course: BSc (first) in Forensic & Crime Scene Science
     institution: Bournemouth University
     year: 2008
 
