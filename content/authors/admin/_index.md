@@ -14,12 +14,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include the psychology of forensic science, facial recognition and human-computer interactions in forensics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Forensic science
+- Psychology
+- Facial recognition
 
 education:
   courses:
