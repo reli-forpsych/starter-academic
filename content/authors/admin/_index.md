@@ -68,8 +68,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Reuben Moreton is a researcher and consultant in forensic science and psychology, with specific interest in forensic facial identification. Reuben has 10 years’ prior experience working operationally as a forensic examiner and expert witness and now provides advice and consultancy in forensic identification and image analysis to police forces and government departments in the UK and internationally.
-
-He is a proactive member of forensic practitioner working groups and having written international best practice guidance and standards in forensic facial identification. Reuben has extensive experience in academic forensic research and have published peer-reviewed articles on the psychology of forensic facial identification.
+Reuben Moreton is a researcher and consultant in forensic science and psychology, with specific interest in forensic facial identification. Reuben has 10 years’ prior experience working operationally as a forensic examiner and expert witness and now provides advice and consultancy in forensic identification and image analysis to police forces and government departments in the UK and internationally. He is a proactive member of forensic practitioner working groups having written international best practice guidance and standards in forensic facial identification. Reuben has extensive experience in academic forensic research and has published peer-reviewed studies on the psychology of forensic facial identification.
 
 The current focus of Reuben's research is investigating human and algorithm expertise in forensic face matching. More broadly his research covers the psychology of forensic expertise and decision making.
