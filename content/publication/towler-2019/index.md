@@ -1,7 +1,7 @@
 ---
 title: Do professional facial image comparison training courses work?
 date: '2019-01-01'
-draft: true
+draft: false
 publishDate: '2020-11-16T18:07:55.518631Z'
 authors:
 - Alice Towler
