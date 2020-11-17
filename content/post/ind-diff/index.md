@@ -11,7 +11,7 @@ image:
   placement: 3
   caption: ''
   focal_point: ""
-  preview_only: false
+  preview_only: true
 ---
 
 {{< youtube pxS6lOHDKxs >}}
