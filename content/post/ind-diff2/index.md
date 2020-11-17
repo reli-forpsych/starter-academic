@@ -1,5 +1,5 @@
 ---
-title: Individual differences in forensic science - and why they matter
+title: Individual differences in forensic face matching
 date: 2019-07-12
 math: true
 diagram: true
