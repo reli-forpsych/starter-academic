@@ -7,7 +7,7 @@ diagram: true
 
 {{< youtube pxS6lOHDKxs >}}
 
-In this two-part guest lecture, I talk about how individual differences between forensic experts can impact on the reliability of forensic evidence. 
+In the first of a two-part guest lecture, I talk about how individual differences between forensic experts can impact on the reliability of forensic evidence. 
 The talk also discusses how psychologists can work with forensic scientists to develop effective tests to identify individual differences and design 
 scientifically robust forensic methodologies.
 
