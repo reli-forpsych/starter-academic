@@ -10,6 +10,6 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*Forensic Face Matching*'
-doi: '10.31234/osf.io/kf7ez'
+doi: 10.31234/osf.io/kf7ez
 ---
 
